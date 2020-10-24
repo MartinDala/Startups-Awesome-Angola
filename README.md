@@ -12,12 +12,12 @@ O nosso pais (Angola) vem crescendo a cada dia no que tange o desenvolvimento da
 | [BukaApp](https://bukaapp.com) | EAD | Funcional | 
 | [UseKamba](https://www.usekamba.com/) | Pagamento Online | Funcional | 
 | [Soba-Store](https://www.soba-store.com/) | E-comerce | Funcional | 
-| [Lwei](https://lwei.co.ao/) | Pagamento Online | F | 
-| [Nawabus](https://play.google.com/store/apps/details?id=com.nawabus.userapp) | Viagens | F | 
-| [SSD](https://ssd.co.ao/) | Consulta Médica Online | F |
-| [Ingresso Prático](https://ingressopratico.co.ao/pt/) | Bilheteria Online | F | 
-| [Bazza Karga](https://www.bazzacarga.com/) | Delivery de Frete |F| 
-| [View Town Tours](https://www.viewtowntours.com/) | Turismo | F | 
+| [Lwei](https://lwei.co.ao/) | Pagamento Online | Funcional | 
+| [Nawabus](https://play.google.com/store/apps/details?id=com.nawabus.userapp) | Viagens | Funcional | 
+| [SSD](https://ssd.co.ao/) | Consulta Médica Online | Funcional |
+| [Ingresso Prático](https://ingressopratico.co.ao/pt/) | Bilheteria Online | Funcional| 
+| [Bazza Karga](https://www.bazzacarga.com/) | Delivery de Frete |Funcional| 
+| [View Town Tours](https://www.viewtowntours.com/) | Turismo | Funcional | 
 
 ## 🌈 Seja um dos contribuidores<br>
 Quer fazer parte desse projeto? É simples! Faço um Fork nele colocando suas modificações e depois mande uma solicitação. Pois com esse projecto ajudaremos muitas iniciativas dos nossos compartriotas,além de mostrar no mundo sobre nossa evolução em desenvolvimento tecnologico, seremos os intermediarios para o encontro de investidores.
